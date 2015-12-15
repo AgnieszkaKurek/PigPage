@@ -1,0 +1,126 @@
+﻿body 
+{
+    background-color:pink;
+
+    font-family: 'Bitter', serif;
+}
+
+
+#conteiner
+{
+    width:1200px;
+    margin-left:auto;
+    margin-right:auto;
+
+
+}
+#logo
+{
+    color:hotpink;
+    margin:20px;
+    font-size:30px;
+    letter-spacing:3px;
+    font-weight:900;
+
+}
+#menu
+{
+    background-color:lightpink;
+    margin-top:20px;
+    color:purple;
+    padding:20px;
+    text-align:center;
+
+
+
+}
+#topbar
+{
+    background-color:lightcoral;
+        padding:10px;
+        margin-top:20px;
+        margin-bottom:25px;
+        height:200px;
+}
+#topbarL
+{
+float:left;
+padding:20px;
+width:160px;
+text-align:center;
+border-right:dotted;
+border-right-color:gray;
+
+}
+#topbarR
+{
+    float:left;
+    padding:20px;
+    width:700px;
+    text-align:justify;
+}
+#sidebar
+{
+   float:left;
+   width:172;
+   min-height:620;
+   padding:20px;
+   text-align:center;
+   font-size:20px;
+   background-color:lightpink;
+}
+#content
+{
+    float:left;
+    padding:20px;
+    width:770px;
+    min-height:620px;
+    text-align:justify;    
+}
+#footer
+{
+    clear:both;
+    background-color:hotpink;
+    text-align:center;
+    padding:20px;
+
+}
+.option
+{
+   float:left;
+   min-width:50px;
+   height:25px;
+   font-size:18px;
+   padding:10px;
+   border-right:dotted;
+   border-right-color:gray;
+   opacity:0.8;
+}
+
+.option:hover
+{
+    background-color:blue;
+    cursor:pointer;
+}
+.optionL
+{
+font-size:20px;
+height:25px;
+padding:10px;
+border-bottom:dotted;
+border-bottom-color:gray;
+}
+.optionL:hover
+{
+    background-color:blue;
+    cursor:pointer;
+
+}
+.bigtitle
+{
+    font-size:30px;
+    font-weight:700px;
+    letter-spacing:2px;
+}
+
+
